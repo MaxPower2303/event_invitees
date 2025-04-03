@@ -1,8 +1,5 @@
 from main import Invitee
 
-# Invitee objects have a name (str), a subjective likelyhood to attend (bool) / 
-# and a number of guests they bring along (int)
-
 family = [
     Invitee("homer_simpson", True, 0),
     Invitee("marge_simpson", True, 0),
